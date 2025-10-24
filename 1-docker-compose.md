@@ -40,14 +40,20 @@ Si algún servicio no se creó correctamente se puede usar
 ```
 docker compose up -d <nombre servicio>
 ```
+Se muestra en la imagen del listado de los contenedores en ejecucion
+
+<img width="1901" height="160" alt="image" src="https://github.com/user-attachments/assets/a33e7822-f9c7-4420-96f7-6c8da0bb756e" />
+
 
 ### Listar contenedores en ejecución que se crearon por docker compose
 ```
 docker compose ps
 ```
-### COMPLETAR CON UNA CAPTURA DE PANTALLA DEL LISTADO DE LOS CONTENEDORES EN EJECUCIÓN
+
 
 ### Detener y eliminar los contenedores definidos en el archivo
 ```
 docker compose down
 ```
+
+<img width="742" height="125" alt="image" src="https://github.com/user-attachments/assets/cc63634d-8dc5-4919-93e6-a0d74c8d889e" />
